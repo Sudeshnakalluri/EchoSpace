@@ -112,8 +112,4 @@ npm run lint      # oxlint
 
 ## Live demo
 
-[Add your deployed URL here once you push to Vercel/Netlify]
-
-## Screenshots
-
-[Add 2-3 screenshots here — Orbit view, a Constellation open, Resonance page]
+https://echo-space-delta.vercel.app/
