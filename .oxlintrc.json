@@ -1,5 +1,5 @@
 {
   "rules": {
-    "react/only-export-components": "off"
+    "no-unused-vars": "error"
   }
 }
